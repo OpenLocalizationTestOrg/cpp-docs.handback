@@ -34412,5 +34412,11 @@
   ],
   "065a39a73cec0abee82550391fc49a39b46d6d7d": [
     "styleguide\\voice-tone.md"
+  ],
+  "628cc8a8c70a4d2aeb3820c17b227ba4e16cbf4c": [
+    "cpp_perf_test\\index.md"
+  ],
+  "46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1": [
+    "cpp_perf_test\\TOC.md"
   ]
 }
