@@ -1411,24 +1411,6 @@
   "e3e485426277d6d7f81c426cc7a676caff38e9c7": [
     "docs\\atl\\marshaling.md"
   ],
-  "e6da8b76e32017556f70b514b4ef48a1b828a05d": [
-    "docs\\atl\\media\\ppgresourcelabeled.gif"
-  ],
-  "1f78ddc06db50d3d0ef1e3c47281efe6a6d6c034": [
-    "docs\\atl\\media\\vc2zw31.gif"
-  ],
-  "01be23fd5ee71f65e375ef153664eb707bb74568": [
-    "docs\\atl\\media\\vc307y1.gif"
-  ],
-  "957cabdc3343c0c8018e47255ad94cfc887590b8": [
-    "docs\\atl\\media\\vc52en1.gif"
-  ],
-  "a611ef8b1115d76c2bcc4afeeaddcea04ff23495": [
-    "docs\\atl\\media\\vc52en2.gif"
-  ],
-  "e294a0639e6c174a16a37e2424d72a97ef3c6945": [
-    "docs\\atl\\media\\vctraitscollectionclasseshierarchy.gif"
-  ],
   "c3e0be3be72746af749e78d70f722e08f550764e": [
     "docs\\atl\\memory-management-classes.md"
   ],
@@ -3035,24 +3017,6 @@
   "61b7bdd63129a7d4120c5cc2ec41565b9e8a5903": [
     "docs\\build\\masm-macros.md"
   ],
-  "ac734a4d13b21ec1de7fe4a00a0964f62b7ba712": [
-    "docs\\build\\media\\vc37yj1.gif"
-  ],
-  "fa9644b1442cc409127aac248234830143e9fcbf": [
-    "docs\\build\\media\\vcamd_conv_ex_1.png"
-  ],
-  "a10c961aa46e730c9ad9a9198f79279ef1c0ab80": [
-    "docs\\build\\media\\vcamd_conv_ex_2.png"
-  ],
-  "0a64016404c70aa72e26a9b436c49a65050094b1": [
-    "docs\\build\\media\\vcamd_conv_ex_3.png"
-  ],
-  "9ccff7a08fd3d6a9611a7a82abd9f1364b53c447": [
-    "docs\\build\\media\\vcamd_conv_ex_4.png"
-  ],
-  "a34eb741ef381dda5bd00619d34170e1e81fce63": [
-    "docs\\build\\media\\vcamd_conv_ex_5.png"
-  ],
   "aa15ac13ad91848cdd17061126c63fe6db2e63ed": [
     "docs\\build\\memory-leak-in-my-dll.md"
   ],
@@ -3846,33 +3810,6 @@
   ],
   "1c8841fbcf5aa917c5c91489559db38eb0894ca1": [
     "docs\\build\\reference\\md-mt-ld-use-run-time-library.md"
-  ],
-  "938a135f43aa77ef2df1a40ca989f7ac86d0aafd": [
-    "docs\\build\\reference\\media\\pgofig0hub.png"
-  ],
-  "5eec7387c5b44ec37b565a6f7c0d8e48c1481034": [
-    "docs\\build\\reference\\media\\pgofig1start.png"
-  ],
-  "83b643b3fcf9e7ba97293974e2a2cfafc433bf44": [
-    "docs\\build\\reference\\media\\pgofig2instrument.png"
-  ],
-  "9cfa873ca60af58697afb8a29bc8e058d9ce595f": [
-    "docs\\build\\reference\\media\\pgofig3build.PNG"
-  ],
-  "019d3bc86c3be34b7edc29baaa5d112a672da293": [
-    "docs\\build\\reference\\media\\pgofig4training.PNG"
-  ],
-  "45f194bc7d2588ea3025ed4d6c3d5d9afffadb59": [
-    "docs\\build\\reference\\media\\pgofig5analyze.png"
-  ],
-  "5f1afc69b8c3ae4be05869d2e29bf3bf7d1bad7e": [
-    "docs\\build\\reference\\media\\pgofig6data.png"
-  ],
-  "c76010aecab9423ccacde450d4e31a45163eb234": [
-    "docs\\build\\reference\\media\\pgofig7diagnostics.png"
-  ],
-  "a61910f124e298190080b60fd3fc621e1f60f021": [
-    "docs\\build\\reference\\media\\vc30ow1.gif"
   ],
   "7c014e673593cdc8106fa6b077ec53d4fb4a124c": [
     "docs\\build\\reference\\merge-combine-sections.md"
@@ -6113,111 +6050,6 @@
   "468dfc93b48b6038290d43ce01ff46968f54a864": [
     "docs\\cpp\\main-program-startup.md"
   ],
-  "3ab93f54eb7b6b2885e37822b722581d65661b52": [
-    "docs\\cpp\\media\\built-intypesizes.png"
-  ],
-  "7880f086ef047d0c3f5020ec3ffd7f59d953556b": [
-    "docs\\cpp\\media\\lambdaexpsyntax.png"
-  ],
-  "af88eca387d9afd3066ee2f39aa1a6d0ef20f8ea": [
-    "docs\\cpp\\media\\shared_ptr.png"
-  ],
-  "dc625498ef274c146e12a8ab85c51c9012151715": [
-    "docs\\cpp\\media\\unique_ptr.png"
-  ],
-  "34776eac1c796fa12bd16c66fcc1db72870448ab": [
-    "docs\\cpp\\media\\vc37i01.gif"
-  ],
-  "0fdb7bb66872d0cd517b741a9fcad4664e944d3d": [
-    "docs\\cpp\\media\\vc37i02.gif"
-  ],
-  "ef9259a4f449bbcec989af64e09f609dcd7262d9": [
-    "docs\\cpp\\media\\vc37i03.gif"
-  ],
-  "f76ddd520d0173c481c68b79dcf7ecd7f220698b": [
-    "docs\\cpp\\media\\vc38cx1.gif"
-  ],
-  "95779143614f30b24ba416202a418ea5ccac9fab": [
-    "docs\\cpp\\media\\vc38ru1.gif"
-  ],
-  "243053a0dce4a6b036ecc602800b7bdb976566c0": [
-    "docs\\cpp\\media\\vc38s71.gif"
-  ],
-  "a26ff01b29c03c596d5ca5c5a58a641a36563202": [
-    "docs\\cpp\\media\\vc38sf1.png"
-  ],
-  "f2952ee252a158000893b711140f536ce6507229": [
-    "docs\\cpp\\media\\vc38ul1.png"
-  ],
-  "e64ec6ffe7bfd84978361353713093a6b90c5de3": [
-    "docs\\cpp\\media\\vc38uq1.png"
-  ],
-  "55a758a6735b2dad9df87a645dd7d881e5b839d1": [
-    "docs\\cpp\\media\\vc38uq2.png"
-  ],
-  "998149cde5712358f445e3a5793e6e371be5a504": [
-    "docs\\cpp\\media\\vc38v41.gif"
-  ],
-  "8fe44126d04f1a68c856a819920e462460d45b19": [
-    "docs\\cpp\\media\\vc38v91.gif"
-  ],
-  "e41b06063764c2b57da67d2421ef4b137abd8387": [
-    "docs\\cpp\\media\\vc38xa1.gif"
-  ],
-  "5a636f203884847235d4b99d8bdb20a91b5fa75b": [
-    "docs\\cpp\\media\\vc38xj1.gif"
-  ],
-  "dcd39d32b73253929292df01be0867df0062cad0": [
-    "docs\\cpp\\media\\vc38xj2.gif"
-  ],
-  "9f468f45ec7813c6a5a215330ea9c889794f778f": [
-    "docs\\cpp\\media\\vc38xn1.gif"
-  ],
-  "23d42a2a7e51b62aed6bbcca7b77d73e850bfa1d": [
-    "docs\\cpp\\media\\vc38xp1.gif"
-  ],
-  "70c088380740d31d29b7327dc46140b66183f30f": [
-    "docs\\cpp\\media\\vc38xp2.gif"
-  ],
-  "71e5b16fabca718dc45bcf96fdb7b594741e183f": [
-    "docs\\cpp\\media\\vc38xp3.gif"
-  ],
-  "f058f0a59256fbe050e3a2f3467b7350949d62f2": [
-    "docs\\cpp\\media\\vc38xp4.gif"
-  ],
-  "b8d0c795b2f2fd69faffc35deac1e6aeb955f473": [
-    "docs\\cpp\\media\\vc38xp5.gif"
-  ],
-  "0036e3c098cb89744546ea4755fafdf052c7b55c": [
-    "docs\\cpp\\media\\vc38xr1.gif"
-  ],
-  "ff290978da3f4aa7c4003402afbbdfe430701995": [
-    "docs\\cpp\\media\\vc38xt1.gif"
-  ],
-  "6ae9ba89516213135d8a314cca6478d80aded31f": [
-    "docs\\cpp\\media\\vc38zv1.gif"
-  ],
-  "e232cfe387d80e0c23ca28855fb46fc1aabc69d1": [
-    "docs\\cpp\\media\\vc38zv2.gif"
-  ],
-  "0002d1b93a1c6db8b45cab95f17e3c55c4c0cb4d": [
-    "docs\\cpp\\media\\vc38zz1.gif"
-  ],
-  "e26748ad279a7df72099b5143bbb16ab67768ecf": [
-    "docs\\cpp\\media\\vc38zz2.gif"
-  ],
-  "3d83a6495316586a2d4c43e8df97a2290f374fd2": [
-    "docs\\cpp\\media\\vc39011.gif"
-  ],
-  "68c283469eb9a1b241dd41f0a314174c3cdc401f": [
-    "docs\\cpp\\media\\vc39012.gif"
-  ],
-  "e8a12abf110d4649a67c18cda1e7e98b2260b3f7": [
-    "docs\\cpp\\media\\vc39013.gif"
-  ],
-  "1590f5c7501e4ffcd5f55d37bf4e05d25f057564": [
-    "docs\\cpp\\media\\vc392j1.gif"
-  ],
   "3d4c26e800afecd7ffd33441a0cc8c662141a105": [
     "docs\\cpp\\member-access.md"
   ],
@@ -7168,9 +7000,6 @@
   ],
   "643635c679e873a8f9d5221bc67e52a8246e272f": [
     "docs\\c-runtime-library\\mb-cur-max-func-mb-cur-max-l-func-p-mb-cur-max-mb-cur-max.md"
-  ],
-  "c8930eee20ad4b8e45c5bd8b1cf9a6be967019e8": [
-    "docs\\c-runtime-library\\media\\stream.gif"
   ],
   "3bd350bbab7cdf25c756c2d4080ade31d42a43e1": [
     "docs\\c-runtime-library\\memory-allocation.md"
@@ -8510,9 +8339,6 @@
   "7e630aa2d59bc8686c92dc15b12518c8eee409de": [
     "docs\\c-runtime-library\\reference\\mbtowc-mbtowc-l.md"
   ],
-  "cd3a3c544ab6e54a6a84bd71d7e83804f28796ea": [
-    "docs\\c-runtime-library\\reference\\media\\crt_erf_formula.PNG"
-  ],
   "632b21f1d7d3be8a6acec960d9ee6b391ed9db33": [
     "docs\\c-runtime-library\\reference\\memccpy.md"
   ],
@@ -9695,9 +9521,6 @@
   "8138436e69f9f1e30f8ee08034ed3a05f5789358": [
     "docs\\data\\ado-rdo\\limitations-of-databinding.md"
   ],
-  "58e2dc352448486b1add7f5bca6ba2f599e25abb": [
-    "docs\\data\\ado-rdo\\media\\vc55q61.gif"
-  ],
   "4693495c7ebafa843256a4bc44888511f0381f8a": [
     "docs\\data\\ado-rdo\\model-for-hosting-rdo-data-controls-in-a-container.md"
   ],
@@ -9794,9 +9617,6 @@
   "9ff78c89a060daee6096d0a4becea9cc899623ce": [
     "docs\\data\\installing-mfc-database-support.md"
   ],
-  "fb8ff2612e3f6c5a840e860f87eb30f78c85bd22": [
-    "docs\\data\\media\\vc37xt1.gif"
-  ],
   "7e7914398728df256b815fffca4ee5f69988a3df": [
     "docs\\data\\mfc-database-classes-odbc-and-dao.md"
   ],
@@ -9844,9 +9664,6 @@
   ],
   "5e4d148f59b842451d6ac0288ea08b5d20f0a98a": [
     "docs\\data\\odbc\\installing-and-getting-started-with-odbc.md"
-  ],
-  "6d07f7f9944238298a2a437432e5ba46b628137e": [
-    "docs\\data\\odbc\\media\\vc37w61.gif"
   ],
   "e3caf6bcff7eb7c142d2bc3c09424eaf1b934f45": [
     "docs\\data\\odbc\\odbc-administrator.md"
@@ -11383,24 +11200,6 @@
   ],
   "befb5a0c4da591e1830df93a590c0e3b9c2d4d20": [
     "docs\\data\\oledb\\macros-for-ole-db-provider-templates.md"
-  ],
-  "d990238fdd6de55342cdd964991ac2973d800ffe": [
-    "docs\\data\\oledb\\media\\vc4twb1.gif"
-  ],
-  "2a33c7703a0385514253b9bc7b260b5f64cd64b0": [
-    "docs\\data\\oledb\\media\\vc4u551.gif"
-  ],
-  "f91d86ded0d6e599bd14454249f1edc49d93ed5d": [
-    "docs\\data\\oledb\\media\\vcaccessortypes.gif"
-  ],
-  "a41474fd5bccf6c80932d601112172852e2848f0": [
-    "docs\\data\\oledb\\media\\vccommandstables.gif"
-  ],
-  "8a6a0d6668a7101c8b6f0d5473cf1267527314a6": [
-    "docs\\data\\oledb\\media\\vcdatasourcesessionclasses.gif"
-  ],
-  "d2b0b1fa52b2db516197cecc79f5b0206aedd855": [
-    "docs\\data\\oledb\\media\\vcrowsettypes.gif"
   ],
   "c9346e911d10f91fd3808177ae45f2c4556cc351": [
     "docs\\data\\oledb\\modifying-the-inheritance-of-rmyproviderrowset.md"
@@ -22354,72 +22153,6 @@
   "e6407716bcb49e5b32d03fbdfecd643fa34e1c26": [
     "docs\\ide\\manifest-tool-property-pages.md"
   ],
-  "0b46c0ac3c7b0e53840e7b7f1e1c9a5858d443f2": [
-    "docs\\ide\\media\\hintfile.png"
-  ],
-  "f5fc51bfaa187ce0f13dcb31bb0ed6a4ea46042e": [
-    "docs\\ide\\media\\project_property_pages_vc.png"
-  ],
-  "7c8046b6a2e7c70d77a2ba0a1d823f05cb6631fc": [
-    "docs\\ide\\media\\property_editor_dropdown.png"
-  ],
-  "42776ad5dd3a97a87514b30dacfc5d1e8b4d320f": [
-    "docs\\ide\\media\\propertyeditorvc.png"
-  ],
-  "71ed4241d9c46c491124356452036c7d75230e9b": [
-    "docs\\ide\\media\\property-manager.png"
-  ],
-  "15df2d09a0f5806d60bc7291ba8a930851a81836": [
-    "docs\\ide\\media\\sharingnew.png"
-  ],
-  "de345c182149af876f7ae90980e44ab6a4a80239": [
-    "docs\\ide\\media\\visual-c---project-defaults.png"
-  ],
-  "2abe0111cd58a4290eb44986fb7633dbca657c07": [
-    "docs\\ide\\media\\visual-c---property-pages-showing-active-configuration.png"
-  ],
-  "b9b263f936f0dd5aa5a3dd76314efa93f09712dc": [
-    "docs\\ide\\media\\visual-c---property-pages-showing-release-config.png"
-  ],
-  "eedd01352bed5b9fd8c22100770a236db2024414": [
-    "docs\\ide\\media\\visual-c---reference-manager--atl-projects-.png"
-  ],
-  "e55c76672fa924b2b7caf771f6344cc23c71fab2": [
-    "docs\\ide\\media\\vs2015_cpp_add_class.png"
-  ],
-  "5548b98a2e48da9ece55403fb2b736c0de800a4c": [
-    "docs\\ide\\media\\vs2015_cpp_call_hierarchy.png"
-  ],
-  "b4f8dfc76e08c9108274eacbeca74561e51af69c": [
-    "docs\\ide\\media\\vs2015_cpp_class_wizard.png"
-  ],
-  "63aaafd11eac954d9ebe537d3695c6bd64fc53c8": [
-    "docs\\ide\\media\\vs2015_cpp_code_map.png"
-  ],
-  "8c12535232eb33a55cb06aed609beb90b4431dfb": [
-    "docs\\ide\\media\\vs2015_cpp_include_graph.png"
-  ],
-  "715fa8c67b3cfa588de919e75b1323a14801fed3": [
-    "docs\\ide\\media\\vs2015_cpp_open_document.png"
-  ],
-  "4355f7d49b2a645e1830374c096e0f075d487cdb": [
-    "docs\\ide\\media\\vs2015_cpp_outlining.png"
-  ],
-  "800a441feeca893d2dce62d1e7d067bfcc3d6646": [
-    "docs\\ide\\media\\vs2015_cpp_peek_definition.png"
-  ],
-  "d9e35a86ad48e566971182eb69cac04e3dfe947a": [
-    "docs\\ide\\media\\vs2015_cpp_quick_launch.png"
-  ],
-  "e781ef5e7ec5d05b297d299320529ca88d5b3768": [
-    "docs\\ide\\media\\vs2015_cpp_quickinfo.png"
-  ],
-  "32af5c4759a69eb50fd59c3e6ef1d17d59b7442c": [
-    "docs\\ide\\media\\vs2015_cpp_statement_completion.png"
-  ],
-  "0c58e7e36cd86dbaa8af90f81f6c9dea4ea453c0": [
-    "docs\\ide\\media\\vs2015_cpp_surround_with.png"
-  ],
   "412785826cb58485b6b66b0cae8687fe29bb0c9c": [
     "docs\\ide\\mfc-program-or-control-source-and-header-files.md"
   ],
@@ -22518,64 +22251,6 @@
   ],
   "871eea21e40f6ccedae49919cf51779ba4bae73a": [
     "docs\\ide\\refactoring\\extract-function.md"
-  ],
-  "45705972e124cbfb284e9f603743433938d83746": [
-    "docs\\ide\\refactoring\\images\\bulb.png"
-  ],
-  "cdc8b05b31948ee557506e47c839bb732ed2d2a2": [
-    "docs\\ide\\refactoring\\images\\changesignature_addmodify.png"
-  ],
-  "d8fa7eaec85b073d804ff89a27929df9a950cbbe": [
-    "docs\\ide\\refactoring\\images\\changesignature_dialog.png"
-  ],
-  "39c60aa31642030dd5c185f170b47172e0a7b0a5": [
-    "docs\\ide\\refactoring\\images\\changesignature_highlight.png"
-  ],
-  "2f63e351fd3e34cff5c0000f0e82a11485f4c891": [
-    "docs\\ide\\refactoring\\images\\changesignature_preview.png"
-  ],
-  "91f7ad6b76a4acd0f98a9f60f6c5e4c99d0635ae": [
-    "docs\\ide\\refactoring\\images\\changesignature_result.png"
-  ],
-  "65d9d21e52c7ba6a636e4e5a6b60b5a4600f0c87": [
-    "docs\\ide\\refactoring\\images\\createdefinition_highlight.png",
-    "docs\\ide\\refactoring\\images\\movedefinition_highlight.png"
-  ],
-  "9456752407b34d896f54c23cd4206e334bb9ccf6": [
-    "docs\\ide\\refactoring\\images\\createdefinition_result.png"
-  ],
-  "72ee5026e22039770cbd59118cb6df8b5f2f913e": [
-    "docs\\ide\\refactoring\\images\\extractfunction_dialog.png"
-  ],
-  "54c425f608d24ffe324dca0880050f40b3bd7635": [
-    "docs\\ide\\refactoring\\images\\extractfunction_highlight.png"
-  ],
-  "d15eb529340d09584a74f20bedba1cb58ad3a843": [
-    "docs\\ide\\refactoring\\images\\extractfunction_result.png"
-  ],
-  "62ad296cb4d7d2612cec051288d57ef7cd3db134": [
-    "docs\\ide\\refactoring\\images\\movedefinition_result.png"
-  ],
-  "fcbdcaeb9ac657c3590f53575b63b39762336dad": [
-    "docs\\ide\\refactoring\\images\\rename_dialog.png"
-  ],
-  "527b7b400aaa85245925208fbfd9d837c2e16959": [
-    "docs\\ide\\refactoring\\images\\rename_highlight.png"
-  ],
-  "8819a5d7c6ed0197758f7b75180018550ea37ada": [
-    "docs\\ide\\refactoring\\images\\rename_preview.png"
-  ],
-  "c81a72814986cd91fbd340355c39a3171c8232a9": [
-    "docs\\ide\\refactoring\\images\\stringliteral_highlight.png"
-  ],
-  "5b82750902a1b99c2d218d3d43a8fb457fb74489": [
-    "docs\\ide\\refactoring\\images\\stringliteral_result.png"
-  ],
-  "f6604317895bf6b26dc0dc1656045814ef397d59": [
-    "docs\\ide\\refactoring\\images\\virtuals_highlight.png"
-  ],
-  "e1e46ad89f77d84fc5b2f0214da806e95bcbaccf": [
-    "docs\\ide\\refactoring\\images\\virtuals_result.png"
   ],
   "62061bb122def7426c516d690bc0d3df8997027a": [
     "docs\\ide\\refactoring\\implement-pure-virtuals.md"
@@ -23176,95 +22851,8 @@
   "0c29d894fdca6c7195826aebb46eff042bab9aa8": [
     "docs\\linux\\index.md"
   ],
-  "316a70aa08554aefba020ea361ddb6c809afd07f": [
-    "docs\\linux\\media\\architecture.png"
-  ],
-  "6268fe449ea427331e71e812d458184905880d05": [
-    "docs\\linux\\media\\connect.png"
-  ],
-  "022efd3ff49828054202ff2b859e8d74a7b89126": [
-    "docs\\linux\\media\\consolemenu.png"
-  ],
-  "ea9dbcc5b5e24896e3145c224f5ab06c6aed746d": [
-    "docs\\linux\\media\\consolewindow.png"
-  ],
-  "ee52c00a0b0a62ab29b200f163b496b24e9197de": [
-    "docs\\linux\\media\\linuxworkload.png"
-  ],
-  "0bbce1160c6129112a855f7a7d0a156df476586c": [
-    "docs\\linux\\media\\newproject.png"
-  ],
-  "a0bb392020e0ad7dcd0a06cbdf1a5989c1e3fe32": [
-    "docs\\linux\\media\\settings_buildevents.png"
-  ],
-  "2df3aa6da614367b04e797eea5d70d8d9b497972": [
-    "docs\\linux\\media\\settings_connectionmanager.png"
-  ],
-  "e58e2ecf5348c855b061ac50e6bec86c0f5960f9": [
-    "docs\\linux\\media\\settings_connectionmanagererror.png"
-  ],
-  "240ad32d3cd4b2fb05ff403c4fa2e962bd1e506b": [
-    "docs\\linux\\media\\settings_debugger.png"
-  ],
-  "8e5b051444593f8cff3e7eaaf234a5a4113edff3": [
-    "docs\\linux\\media\\settings_directories.png"
-  ],
-  "807fadf926cc0bc06b40c7f634076146510fb2de": [
-    "docs\\linux\\media\\settings_general.png"
-  ],
-  "7b3e4fa502ba370eccf9d0f5b71eaee2b9085d9f": [
-    "docs\\linux\\media\\settings_programarguments.png"
-  ],
-  "a8d937f5cb5e1e9e3f9cef4b76521647c5fb767c": [
-    "docs\\linux\\media\\settings_remote.png"
-  ],
   "e9508ae09185918e2c3af82c3f516991c5afc27e": [
     "docs\\linux\\TOC.md"
-  ],
-  "194e91943f17b7fe102b649cfd8b54dccf9c61e1": [
-    "docs\\media\\api-stats.png"
-  ],
-  "e4c1b13abb0d1dc80f140cf99e5feb09145c47c6": [
-    "docs\\media\\cmake_cpp.png"
-  ],
-  "27a2583cb0156ca5995c121948aabb070af51db9": [
-    "docs\\media\\CppCoreCheck.png"
-  ],
-  "2ea63a7941f33dcb160bec750abac2cac3cafe0a": [
-    "docs\\media\\ErrorList1.png"
-  ],
-  "168eb8f15f2a1949d86a1513fb0a910509b51b53": [
-    "docs\\media\\ErrorList2.png"
-  ],
-  "a892b8d941eec5aac387be71d27b16f8a597ec88": [
-    "docs\\media\\frame-analysis.png"
-  ],
-  "460571ad4956e7e1f80e40d2855da0c95fb6633b": [
-    "docs\\media\\frame-validation.png"
-  ],
-  "676ea60e61ecc9f7eedf6e42c6b10fb4306876fa": [
-    "docs\\media\\gpu-usage.png"
-  ],
-  "176de3fad8eea3af70e815dcdab9d33009b57cbc": [
-    "docs\\media\\gpu-view.png"
-  ],
-  "1d17c2abcaaa6d4ca602bc970757cc9d0d7bc3ee": [
-    "docs\\media\\io-shaders.png"
-  ],
-  "47000c60b499e0b6b314c03145ac28e3f5ba50f0": [
-    "docs\\media\\memory-stats.png"
-  ],
-  "ada50b4f2cdc5daa285a0b26be4b7507bb3f543e": [
-    "docs\\media\\mlfiltering.png"
-  ],
-  "d03ec2d1b6a36e260812a3e48acfc3cdd189ef89": [
-    "docs\\media\\resource-history.png"
-  ],
-  "74ea2abfd13761f07ca45ac90adffd48f93c6569": [
-    "docs\\media\\resource-history-change.png"
-  ],
-  "86f5055f39c3bd88c55f142d23503530982782c1": [
-    "docs\\media\\search.png"
   ],
   "b8cc830b726ee054b1678371a4365ba577d9941d": [
     "docs\\mfc\\accelerator-editor.md"
@@ -24428,246 +24016,6 @@
   ],
   "9d97559ca839747d847e465f52092aaf1c132a74": [
     "docs\\mfc\\mdi-tabbed-groups.md"
-  ],
-  "8ab63a73e5dda26cf4c93508d5fce5e9b40f3ffb": [
-    "docs\\mfc\\media\\application_button.png"
-  ],
-  "d37a7601522b9303c331e4290789f2c4216a6caa": [
-    "docs\\mfc\\media\\custdialogboxtoolstab.png"
-  ],
-  "7a356a659779796a0432cc3b562b4c0656982d12": [
-    "docs\\mfc\\media\\mfc_featurepack.png"
-  ],
-  "963e61526044a238b83032557f1ca70b8825340f": [
-    "docs\\mfc\\media\\mfc_heirarchy_chart1of3.png"
-  ],
-  "1b160e292dcc674dee82169659232c924f9aa782": [
-    "docs\\mfc\\media\\mfc_heirarchy_chart2of3.png"
-  ],
-  "9b797366348615656a2c716365d215fdf30e3656": [
-    "docs\\mfc\\media\\mfc_heirarchy_chart3of3.png"
-  ],
-  "45010718c8ce44e53bbe6209ea893fe7cecfd66e": [
-    "docs\\mfc\\media\\mfcdynamiclayout1.PNG"
-  ],
-  "54fd044abd8523a3aa471ddbbb675590b8f9aacd": [
-    "docs\\mfc\\media\\mfcdynamiclayout2.PNG"
-  ],
-  "719adb41938adf3702cfa83e2a07fefcc3403dfb": [
-    "docs\\mfc\\media\\mfcdynamiclayout3.PNG"
-  ],
-  "9a37cf74ea5545caa08072d0377bc937aa205457": [
-    "docs\\mfc\\media\\mfcdynamiclayout4.PNG"
-  ],
-  "307076f53f0206459471f680fb87a03e3c0a4eb1": [
-    "docs\\mfc\\media\\mfcdynamiclayout5.PNG"
-  ],
-  "6723b5453be86e88d331ea95ff73e9c35e083606": [
-    "docs\\mfc\\media\\mfcnextkeyboardtab.png"
-  ],
-  "29a79cffe65f78e8adde240371eda90226a8565f": [
-    "docs\\mfc\\media\\mfcnextmousetab.png"
-  ],
-  "2cd27808f7df2aed46d5eee856dbf52e118ec788": [
-    "docs\\mfc\\media\\msoffice2007.png"
-  ],
-  "38dcc7d42cc9bf267034abb377a18635e94760ec": [
-    "docs\\mfc\\media\\quick_access_toolbar.png"
-  ],
-  "f0bc7133577d0d77a97d36d6159529b51c11c357": [
-    "docs\\mfc\\media\\ribbon.png"
-  ],
-  "a905c0dd49648eb36f00f1d488c1eaad603b03a9": [
-    "docs\\mfc\\media\\ribbon_designer.png"
-  ],
-  "bb2b19b002e76baffb2640bfc0663373b7fc9456": [
-    "docs\\mfc\\media\\ribbon_no_callouts.png"
-  ],
-  "bc805fb6b146f7145333eec2cc0575b18468d4df": [
-    "docs\\mfc\\media\\vc369r1.png"
-  ],
-  "ce4d6c282e990b1599b570db3d5761eb05b2fb7a": [
-    "docs\\mfc\\media\\vc37221.gif"
-  ],
-  "f53a6661cbe98a727d1e83a8a34a55496ad0b4ca": [
-    "docs\\mfc\\media\\vc37222.gif"
-  ],
-  "32d0ccd4f995bc0e807f70eb27d9b7dcc3aece7b": [
-    "docs\\mfc\\media\\vc37223.gif"
-  ],
-  "7bba88a60271f08bf34ef656a1442ef11ada4837": [
-    "docs\\mfc\\media\\vc373i1.gif"
-  ],
-  "b0dc2861d9d8a76b408bf40cd374154549c4b815": [
-    "docs\\mfc\\media\\vc373q1.gif"
-  ],
-  "a0f8dfc2559778f87fde48c4f2414cf4be5fe928": [
-    "docs\\mfc\\media\\vc374d1.gif"
-  ],
-  "82b8bfbb29be8f007750a71b312c261b074fdfb7": [
-    "docs\\mfc\\media\\vc374d2.gif"
-  ],
-  "f8ea7378d5d7f4b44d7d8ff88815dd12623b2aa8": [
-    "docs\\mfc\\media\\vc374v1.gif"
-  ],
-  "c6f329bde039d63cfe3c6302ee1188e1d18c30dd": [
-    "docs\\mfc\\media\\vc378t1.gif"
-  ],
-  "b94d294657356da85edc5c0168a294dd9f6b02e8": [
-    "docs\\mfc\\media\\vc379d1.gif"
-  ],
-  "b3e6b3963e95fcaffe1f71b006eae31b3a48d765": [
-    "docs\\mfc\\media\\vc379n1.gif"
-  ],
-  "6fe78fc27aa997cdcbe665fe98f51f32583908c9": [
-    "docs\\mfc\\media\\vc37a71.gif"
-  ],
-  "c5856c3dbb6604bee71d533ce82b0c93127fc422": [
-    "docs\\mfc\\media\\vc37c71.gif"
-  ],
-  "0d5cabb9876695a1ccbf413c45d10a5fef5ae1f4": [
-    "docs\\mfc\\media\\vc37dy1.gif"
-  ],
-  "b55ba554f40365e0e5047bd75cdb78c2ebdbac19": [
-    "docs\\mfc\\media\\vc37fj1.gif"
-  ],
-  "3247b01b1d386b149302ee390aa0f9a3f8987957": [
-    "docs\\mfc\\media\\vc37fx1.gif"
-  ],
-  "100b98bfeec18a0c8f1a083bf5cf4d0da08ed32c": [
-    "docs\\mfc\\media\\vc37gb1.gif"
-  ],
-  "d1176ab47f9e7a598427e29f5fb84131e645a372": [
-    "docs\\mfc\\media\\vc37gj1.gif"
-  ],
-  "9147c34cfbfaf34fc9a843362e410be58bb6eed1": [
-    "docs\\mfc\\media\\vc37lh1.gif"
-  ],
-  "da174ed52a1adb0c5d029b9cf0d8254ec3536931": [
-    "docs\\mfc\\media\\vc37lh2.gif"
-  ],
-  "3c1a1239e1d8b3903df75a39c645baa661686cf3": [
-    "docs\\mfc\\media\\vc385p1.gif"
-  ],
-  "72f7a4dc4f2eef660415a61f429773d716d12e3f": [
-    "docs\\mfc\\media\\vc385p2.png"
-  ],
-  "c08f6d2f5e6ffc3f20b1074d9fda0ba2d3057c68": [
-    "docs\\mfc\\media\\vc38621.gif"
-  ],
-  "033b08f1e95ea24243c88fa634467e15f30d2bcc": [
-    "docs\\mfc\\media\\vc386v1.gif"
-  ],
-  "c5164c185dad38600fbdcd00b1cc8aed3e7c8896": [
-    "docs\\mfc\\media\\vc387c1.gif"
-  ],
-  "201ce764a663d96d92b371dd40bb7e1d822006f1": [
-    "docs\\mfc\\media\\vc387h1.gif"
-  ],
-  "d985e749a9981d193dec33cb7308e3ed53ed8784": [
-    "docs\\mfc\\media\\vc387l1.gif"
-  ],
-  "a2b245b895da0bf8cda04f477c05273c79f3145b": [
-    "docs\\mfc\\media\\vc387l2.png"
-  ],
-  "61e6bfc103c6458cb18421f8d3425e12a78b694a": [
-    "docs\\mfc\\media\\vc387l3.gif"
-  ],
-  "e3be36ec2b5eefaabeb99a599ef3c4c5fadc4c26": [
-    "docs\\mfc\\media\\vc387n1.gif"
-  ],
-  "b079b6f41e51f6fc107c8b6c9ac85edf95420b36": [
-    "docs\\mfc\\media\\vc387n2.gif"
-  ],
-  "6f52681634fbc69ff4a2c6a5241f695bf520b6a2": [
-    "docs\\mfc\\media\\vc38bq1.gif"
-  ],
-  "967806e96d8ecb59dd5f4a8c983ab325e8683205": [
-    "docs\\mfc\\media\\vc38ia1.gif"
-  ],
-  "85a6bc1b1e75732f91d2421d3eaa7e931ff0d387": [
-    "docs\\mfc\\media\\vc4ruw1.gif"
-  ],
-  "08de1750618df6fc1006b22d216fa37a47bbef1e": [
-    "docs\\mfc\\media\\vc4ruw2.gif"
-  ],
-  "5cf2117fb9754beca3635922588d6689aa2567ec": [
-    "docs\\mfc\\media\\vc4ruz1.gif"
-  ],
-  "ee2f7aeb26b4e77f719cee661f335f8d2c680f8b": [
-    "docs\\mfc\\media\\vcbinaryeditor2.gif"
-  ],
-  "b6b4e4e8998d40336f6da28726d03868b3694692": [
-    "docs\\mfc\\media\\vccomboboxarrow.gif"
-  ],
-  "dd54d7a511aed3e2694e0b60791d6deb79c8fab5": [
-    "docs\\mfc\\media\\vccomboboxsizing.gif"
-  ],
-  "4dcbacdf9b4397a64a519cb041b7a10879a927c8": [
-    "docs\\mfc\\media\\vcdialogeditoracross.png"
-  ],
-  "e5f3f7e97cbf94cdfa222b17316c013577c9fe5d": [
-    "docs\\mfc\\media\\vcdialogeditoralignbottoms.png"
-  ],
-  "b688cae9fd2375c51a4a70b5e32aef1c81ae07a2": [
-    "docs\\mfc\\media\\vcdialogeditoralignlefts.png"
-  ],
-  "5b22ec86d0a01db117816f7213bdd15b5b31dab0": [
-    "docs\\mfc\\media\\vcdialogeditoralignrights.png"
-  ],
-  "fc7451871afa4dea079b1d4f8bfb7920225ca57e": [
-    "docs\\mfc\\media\\vcdialogeditoraligntops.png"
-  ],
-  "4f1215e3241b0107bde94bf92856f0482715dd3e": [
-    "docs\\mfc\\media\\vcdialogeditordown.png"
-  ],
-  "72b7c4a37adab58f37bd6039a7d14325df20b942": [
-    "docs\\mfc\\media\\vcdialogeditorhorizontal.png"
-  ],
-  "974a01b33b29e9cf47e77b679b3019ce46844321": [
-    "docs\\mfc\\media\\vcdialogeditormakesameheight.png"
-  ],
-  "b4ad5eaa78fe34045589d304b15c325155cdbb8d": [
-    "docs\\mfc\\media\\vcdialogeditorsamesize.png"
-  ],
-  "28bffc1f861a9b8307c321ae1c81da390db2814b": [
-    "docs\\mfc\\media\\vcdialogeditorsamewidth.png"
-  ],
-  "2a4bf2f351e2ac9ad6b9d0503ce9719651661199": [
-    "docs\\mfc\\media\\vcdialogeditortestdialog.png"
-  ],
-  "dad133cc8a96be3ab66997681cefefc2c47cf16c": [
-    "docs\\mfc\\media\\vcdialogeditortogglegrid.png"
-  ],
-  "a80e98a78e6ef7bc590cb77b0e2bf78bce99b474": [
-    "docs\\mfc\\media\\vcdialogeditortoggleguides.png"
-  ],
-  "4f38f9da94cec6a531c60fdcc7469e50d7b73c28": [
-    "docs\\mfc\\media\\vcdialogeditorvertical.png"
-  ],
-  "5e48050f2973a02b2b95475894f635b590a29bfe": [
-    "docs\\mfc\\media\\vcimageeditorsizinghandles.gif"
-  ],
-  "f536b63f3a6da8e6d1b75895875677b9ca19b564": [
-    "docs\\mfc\\media\\vcimageeditortoolbar.gif"
-  ],
-  "868b9857c4d16c8028ffb2502a94935a5396f9b9": [
-    "docs\\mfc\\media\\vcimageeditortoolbaroptionselector.gif"
-  ],
-  "0228aa1da13f2b81e6a39094f794161bfef4b955": [
-    "docs\\mfc\\media\\vctoolbareditor.gif"
-  ],
-  "b5a017cfe1300e099fda3ed37c4c808f4ef3b11c": [
-    "docs\\mfc\\media\\vmoffice2003.png"
-  ],
-  "c2a5a9583f9b2db2188a86b69de2c81a92193857": [
-    "docs\\mfc\\media\\vmofficexp.png"
-  ],
-  "1c99ff6efd1802b5ab4a3eab63f398f798d026a5": [
-    "docs\\mfc\\media\\vmvs2005.png"
-  ],
-  "830975e1b505fb1f13797c30028f8f12c7c99555": [
-    "docs\\mfc\\media\\vmwindows.png"
   ],
   "c45884fcc99519459489322cd0d321c4424363f3": [
     "docs\\mfc\\memory-management.md"
@@ -26792,97 +26140,6 @@
   "f14904d57d297a627201685780acadaad2d4fff9": [
     "docs\\mfc\\reference\\measureitemstruct-structure.md"
   ],
-  "99807c74e9daedbe56983403d3eac34f046a411e": [
-    "docs\\mfc\\reference\\media\\cmfcdropdown.png"
-  ],
-  "7ba61186593f87db47063d6e87f0ce473ec9612d": [
-    "docs\\mfc\\reference\\media\\cmfcpropertysheet_color.png"
-  ],
-  "787588b13d4fec299c817c14046a42fcf98adcfa": [
-    "docs\\mfc\\reference\\media\\cmfcpropertysheet_list.png"
-  ],
-  "3b9c5729ddd0fd39ccb3eabc6e7629966d396c6d": [
-    "docs\\mfc\\reference\\media\\cmfcribboncategory.png"
-  ],
-  "7f30995157da6f9424984482dd9c31c7d9379154": [
-    "docs\\mfc\\reference\\media\\cmfcstatusbar.png"
-  ],
-  "4f1a4c04b68429cfd89e3967ba7028e27732033f": [
-    "docs\\mfc\\reference\\media\\cnetaddctrl.png"
-  ],
-  "f824b92b869aa456cea698eb681f0d56d7a9d7a7": [
-    "docs\\mfc\\reference\\media\\colorpicker.png"
-  ],
-  "47aa7b3fc7e6e6455c13a1e6248c9f602970cdf5": [
-    "docs\\mfc\\reference\\media\\ctaskdialogsample.png"
-  ],
-  "21fc04827957b2be0510c41db0ca3298630ed6cf": [
-    "docs\\mfc\\reference\\media\\cvslistbox.png"
-  ],
-  "56abde45f870c9f71d586b2ea902e288addc2c1b": [
-    "docs\\mfc\\reference\\media\\imageedit.png"
-  ],
-  "6b38be793e71d6db0b6f3021fc50b956d337206e": [
-    "docs\\mfc\\reference\\media\\nextsdmarkers.png"
-  ],
-  "69d422a0a3a270a36ceef775f4e984c0b3c21c06": [
-    "docs\\mfc\\reference\\media\\nextsdmarkerscustom.png"
-  ],
-  "2aa138d58182d4238cb564d6bc08db1bb2187162": [
-    "docs\\mfc\\reference\\media\\nexttaskgrpcollapse.png"
-  ],
-  "71676a325029719ba004907f216c38975576c8f7": [
-    "docs\\mfc\\reference\\media\\nexttaskgrpcustom.png"
-  ],
-  "437c1d6896cf159186ff6c27ce9fb1db8976af0e": [
-    "docs\\mfc\\reference\\media\\nexttaskgrpexpand.png"
-  ],
-  "f4ea6c33aa5328f9459d3eefa590a69a599b2c7c": [
-    "docs\\mfc\\reference\\media\\nexttaskgrpnocapt.png"
-  ],
-  "cfdad1c817d671330e183f068036dcbb533721ad": [
-    "docs\\mfc\\reference\\media\\nexttaskgrpspecial.png"
-  ],
-  "e2fb60cad150493b2d088df1822405ff8617b524": [
-    "docs\\mfc\\reference\\media\\nexttaskpane.png"
-  ],
-  "48ebc7418b230976dbbbd9bf94e377207b447317": [
-    "docs\\mfc\\reference\\media\\proplist.png"
-  ],
-  "90baf4256e83ce587e0bfaf047b873f85dd35bce": [
-    "docs\\mfc\\reference\\media\\proptree.png"
-  ],
-  "9352ae4b58890ac5eb3ed49388c32feb4c252b21": [
-    "docs\\mfc\\reference\\media\\splitbutton_pager.png"
-  ],
-  "8dfce625b6546a75527db239f9dea39f75a4a221": [
-    "docs\\mfc\\reference\\media\\vc318s1.gif"
-  ],
-  "4a82d1d3cfa3e9366c5e1b3776541c7690940045": [
-    "docs\\mfc\\reference\\media\\vc35dp1.gif"
-  ],
-  "d44c8470b8c4e311759da14c4f5d1c60b6843a12": [
-    "docs\\mfc\\reference\\media\\vc364f1.gif"
-  ],
-  "28cd58c92c6762dd89d764ebfe6949e145acc7dd": [
-    "docs\\mfc\\reference\\media\\vc364f2.gif"
-  ],
-  "4c14ab8ecdf593f9d77d4b623797ead2a9ba5a5b": [
-    "docs\\mfc\\reference\\media\\vc364f3.gif"
-  ],
-  "2b920e485a263d512db7dbd718cf1f5618aedfea": [
-    "docs\\mfc\\reference\\media\\vc364f4.gif"
-  ],
-  "08281f5dcff9e4a26903a7f5196fa6be71c7c7ed": [
-    "docs\\mfc\\reference\\media\\vc4sc61.gif",
-    "docs\\mfc\\reference\\media\\vc4scc1.gif"
-  ],
-  "8902ed7c2b181dc856713ddef734de9904111d3f": [
-    "docs\\mfc\\reference\\media\\vcditheredbitmap.gif"
-  ],
-  "363fd75785bd2d490fb56ee3cb225131dade1b44": [
-    "docs\\mfc\\reference\\media\\vcgraybitmap.gif"
-  ],
   "7a6d3aa48a9e00eeb55bb62b7801edb64bd4285f": [
     "docs\\mfc\\reference\\message-box-styles.md"
   ],
@@ -28113,36 +27370,6 @@
   "2b7a711eeff095e253ecf6907d7cfc4a196c9a98": [
     "docs\\parallel\\amp\\index.md"
   ],
-  "a82ed473cc0a51c73b42be56d9cebfe629f5c4aa": [
-    "docs\\parallel\\amp\\media\\campc.PNG"
-  ],
-  "98ab9c84b05ba1a75ffaaaf8f0a90fe353731646": [
-    "docs\\parallel\\amp\\media\\campcpubreakpoints.png"
-  ],
-  "5c3b8122eb5f2416bc25062eae872e485fc7cc34": [
-    "docs\\parallel\\amp\\media\\campd.png"
-  ],
-  "fdb5c95bc0e20bab29829826a7a7f66f7c483862": [
-    "docs\\parallel\\amp\\media\\campe.png"
-  ],
-  "6f195c9d6f89ab1dc16b829f5ffb65a3091c03c2": [
-    "docs\\parallel\\amp\\media\\campf.PNG"
-  ],
-  "7402709b79411b71573bfed0a071c461e7998619": [
-    "docs\\parallel\\amp\\media\\campg.PNG"
-  ],
-  "c3324b77a492b25e714c047b41543afcb9f37173": [
-    "docs\\parallel\\amp\\media\\campgpubreakpoints.png"
-  ],
-  "ee4eab2b34933025dbe20dfbc306493e1442e664": [
-    "docs\\parallel\\amp\\media\\camph.png"
-  ],
-  "0c41451f0aa4c125dd2ebe84b742428f6d2da463": [
-    "docs\\parallel\\amp\\media\\campk.PNG"
-  ],
-  "96703e64554251150ea96e9b7449891d981bafd7": [
-    "docs\\parallel\\amp\\media\\campl.PNG"
-  ],
   "c1093bf54b44fd1ca8a55b71b49ad87842607a47": [
     "docs\\parallel\\amp\\reference\\accelerator-class.md"
   ],
@@ -28502,45 +27729,6 @@
   ],
   "c4e54ff0db72dd65932dc025d3c3bdf0329e8e64": [
     "docs\\parallel\\concrt\\lightweight-tasks.md"
-  ],
-  "3b8595551a27d02e08cb891adf77e736ffc84456": [
-    "docs\\parallel\\concrt\\media\\agent_librarycomp.png"
-  ],
-  "cf53f8545c789dc8f9e3c62930ef998253fb842c": [
-    "docs\\parallel\\concrt\\media\\agentstate.png"
-  ],
-  "e71dfc814510a581f3711dded0498a9191fdca85": [
-    "docs\\parallel\\concrt\\media\\concrt_dataflow.png"
-  ],
-  "46c2191ccc38ed3b608eff7811a6b985628a7340": [
-    "docs\\parallel\\concrt\\media\\concrt_imageout.png"
-  ],
-  "b9c8f74854f759cb9df096b271792954bae513db": [
-    "docs\\parallel\\concrt\\media\\concrt_imageproc.png"
-  ],
-  "68d47878f1a36226ee81598c6ca57f87a6c8ebab": [
-    "docs\\parallel\\concrt\\media\\concrt_parallel_sorting.png"
-  ],
-  "f11fa37698cbbe73afb8073349ca3bf24a6f733d": [
-    "docs\\parallel\\concrt\\media\\concrt_usingixhr2.png"
-  ],
-  "45edcee5887b4791bcf5447a95c7798a6db179e7": [
-    "docs\\parallel\\concrt\\media\\concrt_windows_common_words.png"
-  ],
-  "422e0c62e30fd43b91555218dc0f2a6962eeffd3": [
-    "docs\\parallel\\concrt\\media\\concrt_windows_primes.png"
-  ],
-  "bfdb78361236e46c0e5f8b6b34bc99a3bd4ce26f": [
-    "docs\\parallel\\concrt\\media\\concurrencyrun.png"
-  ],
-  "fb83dda5f6ac4384b244261ea8941d61714f3eb5": [
-    "docs\\parallel\\concrt\\media\\dining_philosophersproblem.png"
-  ],
-  "1a82a977200ca2282beb1f2b3605f2d2cdc94c07": [
-    "docs\\parallel\\concrt\\media\\mandelbrot.png"
-  ],
-  "aaaef534a0851e1b09c3bb98b916d852db9585e7": [
-    "docs\\parallel\\concrt\\media\\parallelwork_trees.png"
   ],
   "e742e7490a049dd6c0fd6e5b496c4fffd88aa599": [
     "docs\\parallel\\concrt\\memory-management-functions.md"
@@ -29514,15 +28702,6 @@
   "d8515fc613f95ae5d6395e33b49482488bcc488d": [
     "docs\\porting\\introduction-to-visual-cpp-for-unix-users.md"
   ],
-  "dfb5295b65b740c92a42cf99d01f7b5075dd4852": [
-    "docs\\porting\\media\\scribblemigrationreport.PNG"
-  ],
-  "33da4a09d81cfe70b1874c0b4e4842b8ca7f36c1": [
-    "docs\\porting\\media\\scribbleprojectupgrade.PNG"
-  ],
-  "710aac9549ce322797a6dd128ac3e25876a3e547": [
-    "docs\\porting\\media\\spyxxsolution.PNG"
-  ],
   "8c55ac0ce0720a9a5d4e8562018c394f569331c6": [
     "docs\\porting\\modifying-winver-and-win32-winnt.md"
   ],
@@ -29861,9 +29040,6 @@
   ],
   "5d79c7df7fde719a7e8dcdb64dea285a3dedffd6": [
     "docs\\security\\index.md"
-  ],
-  "f6e7264a606779f67b2839bd8ebdb1413535c044": [
-    "docs\\security\\media\\uacflowchart.png"
   ],
   "15d211d858bf7cd8bb11541703c42899f8d97412": [
     "docs\\security\\running-as-a-member-of-the-users-group.md"
@@ -33431,42 +32607,6 @@
   ],
   "1945a2b166cce534822352c6e11f92b9d88bbde8": [
     "docs\\windows\\max-is.md"
-  ],
-  "31c3eb01078968a023439c908d4c2f5df13bcaa5": [
-    "docs\\windows\\media\\retargetingwindowssdk1.PNG"
-  ],
-  "33a296589e1983f76e49d3b3dabd26b77bcad1e6": [
-    "docs\\windows\\media\\retargetingwindowssdk2.PNG"
-  ],
-  "fa94400352064315154ceb8c511ab31b2b364810": [
-    "docs\\windows\\media\\retargetingwindowssdk3.PNG"
-  ],
-  "5d2409ac57fdbb455f6f05bb6caaca87a442e535": [
-    "docs\\windows\\media\\retargetingwindowssdk4.PNG"
-  ],
-  "69dddc26a702b9363dd23fbfd51d54945dfe1c60": [
-    "docs\\windows\\media\\retargetingwindowssdk5.PNG"
-  ],
-  "0cb5ed9872e7e4e3c66ba57c811a48d1b2613373": [
-    "docs\\windows\\media\\vccolorswindow.gif"
-  ],
-  "b6f31059b110320926cd4cd10ca7f41d00f85029": [
-    "docs\\windows\\media\\vccompattrcomm.gif"
-  ],
-  "d359511aca42b28a98f937bf5b4b08cbaa10430c": [
-    "docs\\windows\\media\\vcimageeditoropaqtranspback.gif"
-  ],
-  "65a8649fa2e62da8a45246db5e61dc9db7f4ccaa": [
-    "docs\\windows\\media\\vcmenueditornewitembox.gif"
-  ],
-  "3d1d040d2be842ac2798997b84a2a86134e11b4a": [
-    "docs\\windows\\media\\vcmenueditornewitemboxexpanded.gif"
-  ],
-  "fab6f63d3aab40338a96858d25613df5ad85e7c4": [
-    "docs\\windows\\media\\wrl_basic_component.png"
-  ],
-  "243f5869ca821b545cb64634c930235a504f6b26": [
-    "docs\\windows\\media\\wrl_media_capture.png"
   ],
   "e781fa9e7e39137751d59d0b747348175c1bb59e": [
     "docs\\windows\\menu-command-properties.md"
