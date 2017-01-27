@@ -1,130 +1,31 @@
 # <a name='report-top'></a> Localization Bilingual Report
 
 ## Summary
- Total Files | 7
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [docs\c-runtime-library\reference\and.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/and.md) | InSyncHandedBackSuccess | [Details](#ce7cd9078015c38d83f574699908f1b2b7a9ede52512)
- [docs\c-runtime-library\reference\cscanf.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/cscanf.md) | InSyncHandedBackSuccess | [Details](#2e9fb43a6da4ffe556fb1e217cb583e69095d0092622)
- [docs\c-runtime-library\reference\execvpe.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/execvpe.md) | InSyncHandedBackSuccess | [Details](#634cbaeba1610c7f656185ff159e3a03dcce3cf42657)
- [docs\c-runtime-library\reference\tempnam.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/tempnam.md) | InSyncHandedBackSuccess | [Details](#fe877564ca417090633c66c86d03318fbe73838b3167)
- [docs\c-runtime-library\reference\ultoa.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/ultoa.md) | InSyncHandedBackSuccess | [Details](#f2a21f767b8315b2f419e26dce1c2e02ef5631fa3184)
- [docs\standard-library\codecvt-utf16-class.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/5187996fc377bca8633360082d07f7ec8a68ee57/docs/standard-library/codecvt-utf16-class.md) | InSyncHandedBackSuccess | [Details](#8ee859512a6b4a3050eec6f91d4b3c8449cf918a12602)
- [docs\standard-library\file-status-class.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/85c900f2263ae1c1089478badc85388e3b5e8548/docs/standard-library/file-status-class.md) | InSyncHandedBackSuccess | [Details](#b6418446418b16233cea45440510cafb372dc2fd12702)
+ [license.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/6945e5d886c5d71bf2a25c8a8bd713899d9c1942/license.md) | ArchivedSuccess | [Details](#633eee5fcf3917fe8e907cfa00f459c6d1dc69c614097)
 
 ## Item Details
-##### <a name='ce7cd9078015c38d83f574699908f1b2b7a9ede52512'></a> Source: [docs\c-runtime-library\reference\and.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/and.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\c-runtime-library\reference\and.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/c-runtime-library/reference/and.md)
-* Handoff File: [and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
+##### <a name='633eee5fcf3917fe8e907cfa00f459c6d1dc69c614097'></a> Source: [license.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/6945e5d886c5d71bf2a25c8a8bd713899d9c1942/license.md)
+* Status: ArchivedSuccess
+* Target File: 
+* Handoff File: [license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/6d7e196922c93eaa00a384136c9590d27f3e4610/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf)
+* Handoff Datetime: 2017-01-27 07:29:22
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
+* Archive File: [license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/0fe16e9eed4de5614f8093c2be37051287524de8/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf)
+* Archive Datetime: 2017-01-27 07:29:43
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* Bilingual File: [and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/and.9788e9ce992f2fe99d3548e17c84a3323e336c05.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
-* [Back to Top](#report-top)
-
-##### <a name='2e9fb43a6da4ffe556fb1e217cb583e69095d0092622'></a> Source: [docs\c-runtime-library\reference\cscanf.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/cscanf.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\c-runtime-library\reference\cscanf.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/c-runtime-library/reference/cscanf.md)
-* Handoff File: [cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
-* Handback Name: 
-* Bilingual File: [cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/cscanf.4eddfc877b6611b19c813ddb5f7116887d13c6d3.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
-* [Back to Top](#report-top)
-
-##### <a name='634cbaeba1610c7f656185ff159e3a03dcce3cf42657'></a> Source: [docs\c-runtime-library\reference\execvpe.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/execvpe.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\c-runtime-library\reference\execvpe.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/c-runtime-library/reference/execvpe.md)
-* Handoff File: [execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
-* Handback Name: 
-* Bilingual File: [execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/execvpe.be86f046517ee207651f91b9aa9f70a845ccd356.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
-* [Back to Top](#report-top)
-
-##### <a name='fe877564ca417090633c66c86d03318fbe73838b3167'></a> Source: [docs\c-runtime-library\reference\tempnam.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/tempnam.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\c-runtime-library\reference\tempnam.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/c-runtime-library/reference/tempnam.md)
-* Handoff File: [tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
-* Handback Name: 
-* Bilingual File: [tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/tempnam.994a69e0396ca4daf84fb6a62670916687d4111d.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
-* [Back to Top](#report-top)
-
-##### <a name='f2a21f767b8315b2f419e26dce1c2e02ef5631fa3184'></a> Source: [docs\c-runtime-library\reference\ultoa.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/3168772cbb7e8127523bc2fc2da5cc9b4f59beb8/docs/c-runtime-library/reference/ultoa.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\c-runtime-library\reference\ultoa.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/c-runtime-library/reference/ultoa.md)
-* Handoff File: [ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
-* Handback Name: 
-* Bilingual File: [ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/ultoa.a31f140b80d6c02a7ed5986cbf53c245ab20b4ab.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
-* [Back to Top](#report-top)
-
-##### <a name='8ee859512a6b4a3050eec6f91d4b3c8449cf918a12602'></a> Source: [docs\standard-library\codecvt-utf16-class.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/5187996fc377bca8633360082d07f7ec8a68ee57/docs/standard-library/codecvt-utf16-class.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\standard-library\codecvt-utf16-class.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/standard-library/codecvt-utf16-class.md)
-* Handoff File: [codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
-* Handback Name: 
-* Bilingual File: [codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/codecvt-utf16-class.f9b57a5092792ea98d5f20e4115b4827b1534185.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
-* [Back to Top](#report-top)
-
-##### <a name='b6418446418b16233cea45440510cafb372dc2fd12702'></a> Source: [docs\standard-library\file-status-class.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/85c900f2263ae1c1089478badc85388e3b5e8548/docs/standard-library/file-status-class.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docs\standard-library\file-status-class.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/44f8273232d72a2cffbae9b424b6e3020d36069d/docs/standard-library/file-status-class.md)
-* Handoff File: [file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/9b7546ba3e9f2666d84bb95e3958def3d2f821dc/ol-handoff/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf)
-* Handoff Datetime: 2017-01-26 16:53:01
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/7c51b26d656cd591cee2b5f0c907de707fde6351/ol-archive/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf)
-* Archive Datetime: 2017-01-26 16:53:17
-* Handback File: [file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf)
-* Handback Datetime: 2017-01-26 17:25:57
-* Handback Name: 
-* Bilingual File: [file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/2369a397cc34ee46300694f6ea8a4c5d4e561771/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/mt/file-status-class.f843d1c6bdd0b73def8766357668daad2e1240b3.es-es.xlf)
-* Bilingual Datetime: 2017-01-26 17:58:29
+* Current Target File: [license.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.es-es/blob/6b2f0ab7ec5be25536a38ad6d142ee4cc01305e7/license.md)
+* Current Handback File: [license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/65dc229d474f235c0a6d641d62643ebf8970d906/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf)
+* Current Handback Datetime: 2017-01-27 07:55:54
+* Bilingual File: [license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/65dc229d474f235c0a6d641d62643ebf8970d906/ol-handback/OpenLocalizationTestOrg/cpp-docs.es-es/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.es-es.xlf)
+* Bilingual Datetime: 2017-01-27 08:33:55
 * [Back to Top](#report-top)
 
 
