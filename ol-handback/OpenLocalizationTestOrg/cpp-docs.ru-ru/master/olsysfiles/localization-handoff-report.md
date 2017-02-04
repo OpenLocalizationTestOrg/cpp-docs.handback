@@ -1,33 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [license.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/6945e5d886c5d71bf2a25c8a8bd713899d9c1942/license.md) | ArchivedSuccess | [Details](#633eee5fcf3917fe8e907cfa00f459c6d1dc69c614097)
 
 ## Item Details
-##### <a name='633eee5fcf3917fe8e907cfa00f459c6d1dc69c614097'></a> Source: [license.md](https://github.com/openlocalizationtestorg/cpp-docs/blob/6945e5d886c5d71bf2a25c8a8bd713899d9c1942/license.md)
-* Status: ArchivedSuccess
-* Target File: 
-* Handoff File: [license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/4797eb31042646c295c40d166c227651d3f25b00/ol-handoff/OpenLocalizationTestOrg/cpp-docs.ru-ru/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf)
-* Handoff Datetime: 2017-01-27 07:44:14
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handoff/blob/0cf34ec0f075a92ff61e5bf08570949cfec9315b/ol-archive/OpenLocalizationTestOrg/cpp-docs.ru-ru/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf)
-* Archive Datetime: 2017-01-27 07:44:36
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* Current Target File: [license.md](https://github.com/OpenLocalizationTestOrg/cpp-docs.ru-ru/blob/25976f608d189023f29e3047415308291a8463ec/license.md)
-* Current Handback File: [license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/45158e920f212c16f2f035cd25bcb5a85f7f6d1b/ol-handback/OpenLocalizationTestOrg/cpp-docs.ru-ru/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf)
-* Current Handback Datetime: 2017-01-12 12:27:37
-* Bilingual File: [license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf](https://github.com/OpenLocalizationTestOrg/cpp-docs.handback/blob/45158e920f212c16f2f035cd25bcb5a85f7f6d1b/ol-handback/OpenLocalizationTestOrg/cpp-docs.ru-ru/master/ht/license.0807791ac019a0f833884873ed78f89386a91bff.ru-ru.xlf)
-* Bilingual Datetime: 2017-01-12 15:21:53
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
